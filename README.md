@@ -26,13 +26,6 @@
 <br />
 <br />
 
-## Latest Blog Posts
+## Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[website]: https://blacknet.co
-[twitter]: https://twitter.com/csblacknet
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/csblacknet
-[linkedin]: https://linkedin.com/in/iamchiragsharma
+[![Chirag Sharmas Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=iamchiragsharma)](https://medium.com/@iamchiragsharma)
