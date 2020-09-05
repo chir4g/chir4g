@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ![Twitter Follow](https://img.shields.io/twitter/follow/csblacknet?color=%20blue&label=Awesome%20Tweets)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Learner, Creator, Debater and ML Engineer
 
 - 🔭 I’m currently Co-Founder @ [BlackNet](www.blacknet.co)
 - 🌱 I’m currently researching and building AI Products.
