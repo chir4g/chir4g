@@ -31,6 +31,11 @@
 
 <a target="_blank" href="4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamchiragsharma/4" alt="Recent Article 2">
 
+## Github Stats
+
+![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=iamchiragsharma&count_private=true&show_icons=True&theme=radical)
+
+
 [website]: https://blacknet.co
 [twitter]: https://twitter.com/csblacknet
 [youtube]: https://youtube.com/codeSTACKr
