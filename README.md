@@ -1,7 +1,4 @@
-### Hi there, I'm Chirag 👋
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/csblacknet?color=%20blue&label=Awesome%20Tweets)
+### Hi there, I'm Chirag 👋 ![Twitter Follow](https://img.shields.io/twitter/follow/csblacknet?color=%20blue&label=Awesome%20Tweets)
 
 ## I'm a Learner, Creator, Debater and ML Engineer
 
@@ -28,4 +25,14 @@
 
 ## Medium Articles
 
-[![Chirag Sharmas Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=iamchiragsharma)](https://medium.com/@iamchiragsharma)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamchiragsharma/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamchiragsharma/2" alt="Recent Article 2">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamchiragsharma/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamchiragsharma/3" alt="Recent Article 2">
+
+<a target="_blank" href="4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamchiragsharma/4" alt="Recent Article 2">
+
+[website]: https://blacknet.co
+[twitter]: https://twitter.com/csblacknet
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/csblacknet
+[linkedin]: https://linkedin.com/in/iamchiragsharma
