@@ -3,9 +3,9 @@
 ## I'm a Learner, Creator, Debater and ML Engineer
 
 - 🔭 I’m currently Co-Founder @ [BlackNet](www.blacknet.co)
-- 🌱 I’m currently researching and building AI Products.
+- 🌱 I’m currently researching and building NLP-AI Products.
 - 👯 Looking forward to collaborate and showcase my interesting research in meetups, research circles and seminars.
-- 🥅 2020 Goals: Contribute more to Open Source and NLP Sustainable Development.
+- 🥅 2021 Goals: Contribute more to NLP Development and Machine Learning Explainablity.
 - ⚡ Fun fact: I love to read books and write intensive data cleaning codes.
 
 ### Spotify Playing 🎧
