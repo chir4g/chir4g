@@ -35,7 +35,7 @@
 
 ## Github Stats
 
-<img align='left' alt='Chirag Github Stats' src='https://github-readme-stats.vercel.app/api?username=iamchiragsharma&count_private=true&show_icons=True&theme=radical' />>
+<img align='left' alt='Chirag Github Stats' src='https://github-readme-stats.vercel.app/api?username=chir4g&count_private=true&show_icons=True&theme=radical' />>
 
 
 [website]: https://blacknet.co
